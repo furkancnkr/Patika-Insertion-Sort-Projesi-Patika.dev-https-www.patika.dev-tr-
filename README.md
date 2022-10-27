@@ -27,7 +27,7 @@ O(n^2)
 
 # 3- Time Complexity: #
 
-Worst Case: O(n²) = n+(n-1)+(n-2)....+1
+Worst Case: O(n²) 
 
 Average Case: O(n²)
 
