@@ -20,7 +20,9 @@
 
 # 2- Big-O gösterimini yazınız. #
 (n*(n-1)/2)
+
 (n^2+n /2)
+
 O(n^2)
 
 # 3- Time Complexity: #
